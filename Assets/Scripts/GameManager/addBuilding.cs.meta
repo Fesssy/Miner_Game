@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b0b34b83d36f07a4b9d27a1dbaa2d8c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mineralCollector: {fileID: 858579534970223242, guid: eaf6627abeb8f63479c7b3f6f6216779, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
