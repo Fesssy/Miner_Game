@@ -7,3 +7,6 @@ It has many limitations but i got to learn many things from this.
   <li>c#</li>
   <li>Basic Game Mechanics</li>
 </ul>
+
+<img src="./images/Screenshot_20231129_195926_Miner Idle Game.jpg">
+<img src="./images/Screenshot_20231129_200002_Miner Idle Game.jpg">
