@@ -8,5 +8,5 @@ It has many limitations but i got to learn many things from this.
   <li>Basic Game Mechanics</li>
 </ul>
 
-<img src=![images/Screenshot_20231129_195926_Miner Idle Game.jpg](https://github.com/Fesssy/Miner_Game/blob/main/images/Screenshot_20231129_195926_Miner%20Idle%20Game.jpg)>
+<img src="![images/Screenshot_20231129_195926_Miner Idle Game.jpg](https://github.com/Fesssy/Miner_Game/blob/main/images/Screenshot_20231129_195926_Miner%20Idle%20Game.jpg)">
 <img src="./images/Screenshot_20231129_200002_Miner Idle Game.jpg">
